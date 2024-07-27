@@ -1,7 +1,0 @@
-SELECT 
-*
-FROM
-	Employee
-WHERE
-	jobcode <> 'INT'
-	AND salary <= 30000;
